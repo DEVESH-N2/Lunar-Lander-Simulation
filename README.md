@@ -19,5 +19,3 @@ Welcome to the Deep Q-Learning Lunar Lander project! This notebook aims to train
 - **Conclusion and References:** Summarization of results and pointers to further readings and resources used in the project.
 
 The agent's learning is facilitated through a Deep Q-Network (DQN), utilizing a target network and experience replay for efficient and stable training. Rewards are intricately tied to the proximity to the landing pad and velocity, ensuring the agent learns to navigate and land safely.
-
-Explore this project to witness how Deep Q-Learning can empower an agent to conquer the challenges of lunar landing!
